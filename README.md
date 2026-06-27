@@ -26,6 +26,7 @@ I build things that work — and when something breaks, I fix it.
 [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--on-FF7139?logo=firefox&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/whatsapp-web-designer/)
 [![Rating](https://img.shields.io/badge/Rating-4.3%20⭐-yellow)](https://addons.mozilla.org/en-US/firefox/addon/whatsapp-web-designer/reviews/)
 [![Users](https://img.shields.io/badge/Active%20Users-800%2B-brightgreen)]()
+[![Crowdin](https://badges.crowdin.net/whatsapp-web-designer/localized.svg)](https://crowdin.com/project/whatsapp-web-designer)
 
 A **cross-browser extension** (Chrome & Firefox) that gives users full control over WhatsApp Web's look and feel — themes, wallpapers, sounds, and more.
 
@@ -35,9 +36,13 @@ A **cross-browser extension** (Chrome & Firefox) that gives users full control o
 - 📤 Import/export themes to share across devices or with friends
 - 🔊 Add custom sound effects for incoming messages
 - 📐 Toggle & resize the contacts sidebar to your liking
+- 🌍 Community-translated via an open [Crowdin project](https://crowdin.com/project/whatsapp-web-designer) — no repo access needed, anyone can help translate
+
+> Want to see your language supported? [Join the translation effort on Crowdin →](https://crowdin.com/project/whatsapp-web-designer)
 
 **Tech:** JavaScript (ES6) · IndexedDB · Browser Extension APIs · MVC Architecture  
 **Published on** Chrome Web Store & Mozilla Add-ons
+**Localized on** Crowdin
 
 ---
 
