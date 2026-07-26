@@ -25,7 +25,7 @@ I build things that work — and when something breaks, I fix it.
 [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/whatsapp-web-designer/hdkdhbdempmjlhbdinealjgoeakmadbl)
 [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--on-FF7139?logo=firefox&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/whatsapp-web-designer/)
 [![Rating](https://img.shields.io/badge/Rating-4.3%20⭐-yellow)](https://addons.mozilla.org/en-US/firefox/addon/whatsapp-web-designer/reviews/)
-[![Users](https://img.shields.io/badge/Active%20Users-800%2B-brightgreen)]()
+[![Users](https://img.shields.io/badge/Active%20Users-1K%2B-brightgreen)]()
 [![Crowdin](https://badges.crowdin.net/whatsapp-web-designer/localized.svg)](https://crowdin.com/project/whatsapp-web-designer)
 
 A **cross-browser extension** (Chrome & Firefox) that gives users full control over WhatsApp Web's look and feel — themes, wallpapers, sounds, and more.
